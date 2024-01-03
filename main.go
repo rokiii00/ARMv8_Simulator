@@ -259,7 +259,7 @@ func binaryStringToInt(tempStr string) uint32 {
 	return uint32(decimalValue)
 }
 
-// Switch statement that grabs a Opcode Interger value and determines which Opcode is being called. - Hunter
+// Switch statement that grabs a Opcode Integer value and determines which Opcode is being called. - Hunter
 
 //findOpcode now returns a string that will be written to Output file - Alan
 
